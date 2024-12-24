@@ -25,5 +25,5 @@ setup(
         "django>=5.1",
         "django-cms>=4.1",
     ],
-    python_requires=">=3.7",
+    python_requires=">=3.10",
 )
