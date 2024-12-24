@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "djangocms-seo"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
     "django>=5.1",
     "django-cms>=4.1",
 ]
 description = "A Django CMS extension to manage SEO meta tags for web pages."
-readme = "README.rst"
+readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
 authors = [

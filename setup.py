@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="djangocms-seo",
-    version="0.1.1",
+    version="0.1.2",
     description="A Django CMS app for managing SEO.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
