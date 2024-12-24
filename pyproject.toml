@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "djangocms-seo"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
     "django>=5.1",
     "django-cms>=4.1",
